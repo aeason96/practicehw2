@@ -1,6 +1,6 @@
 #include "test.h"
 
-int invocationcount = 3;
+#define invocationcount 3;
 int i = invocationcount;
 int j;
 
