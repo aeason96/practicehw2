@@ -1,8 +1,13 @@
 #include "test.h"
-void second(void);
+
+int i = invocationcount;
+char printf;
+int sum;
+
+int temp = 4;
+
 int main()
 {
-  printf("Second module, I send you greetings!n");
-  second();
+  printf("Test\n");
   return 0;
 }
