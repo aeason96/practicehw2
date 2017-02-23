@@ -1,7 +1,12 @@
-printf;
-int sum;
-int main()
+#include <stdio.h>
+static double data[20];
+static int temp = -2;
+int
+main()
 {
-    int data = invocationcount;
-    return 0;
+for (int i = 0; i < 20; i++)
+data[i] = i;
+temp = sum(data, 20);
+printf("sum = %d\n", temp);
+printf("inv = %d\n", invocationcount);
 }
