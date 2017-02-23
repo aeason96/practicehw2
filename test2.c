@@ -2,7 +2,7 @@
 
 int cos;
 int sin;
-int invocationcount;
+invocationcount = 2;
 
 int roundtoint() {
 	return 1;
