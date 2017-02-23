@@ -1,7 +1,7 @@
 #include "test.h"
 
-int i = invocationcount;
 int roundtoint() {
+	int i = invocationcount;
 	int temp = 3;
 	return 1;
 }
