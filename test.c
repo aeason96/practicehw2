@@ -2,11 +2,11 @@
 
 
 int sum;
-
-int temp = 4;
+invocationcount;
 
 int main()
 {
-  printf("Test\n");
-  return 0;
+    int temp = 4;
+    int data;
+    return 0;
 }

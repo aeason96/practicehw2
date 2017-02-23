@@ -6,6 +6,6 @@
 int invocationcount;
 int main();
 int roundtoint();
-
+int sum();
 
 #endif

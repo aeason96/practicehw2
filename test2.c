@@ -2,8 +2,12 @@
 
 int cos;
 int sin;
-invocationcount = 2;
 
 int roundtoint() {
+	int temp = 3;
 	return 1;
+}
+
+int sum() {
+	return 3;
 }
