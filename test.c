@@ -1,8 +1,8 @@
-printf("\n");
-
+int invocationcount;
+printf("thing");
+int sum;
 int main()
 {
-    int temp = invocationcount;;
     int data = sum;
     return 0;
 }
