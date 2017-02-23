@@ -3,7 +3,7 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-int invocationcount;
+constant int invocationcount = 3;
 int main();
 int roundtoint();
 int sum();

@@ -2,7 +2,7 @@
 
 
 int i = invocationcount;
-int j = sum();
+int j;
 
 int main()
 {
