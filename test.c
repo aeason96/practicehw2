@@ -1,7 +1,6 @@
 #include "test.h"
 
 
-int sum;
 invocationcount;
 
 int main()
