@@ -1,5 +1,5 @@
 #include "test.h"
-
+invocationcount = 2;
 int main()
 {
     int temp = 4;
