@@ -1,4 +1,4 @@
-#include "test.h"
+void roundtoint();
 
 int sum() {
 	roundtoint();

@@ -1,8 +1,8 @@
-#include "test.h"
-invocationcount;
+printf("\n");
+
 int main()
 {
-    int temp = 4;
-    int data;
+    int temp = invocationcount;;
+    int data = sum;
     return 0;
 }
