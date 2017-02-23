@@ -1,8 +1,7 @@
-int invocationcount;
-printf();
+printf;
 int sum;
 int main()
 {
-    int data = sum;
+    int data = invocationcount;
     return 0;
 }
