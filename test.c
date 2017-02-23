@@ -1,5 +1,5 @@
 int invocationcount;
-printf("thing");
+printf();
 int sum;
 int main()
 {
